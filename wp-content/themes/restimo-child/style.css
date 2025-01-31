@@ -1,0 +1,14 @@
+/*
+Theme Name:     Restimo Child
+Theme URI:      https://themeforest.net/item/restimo-restaurant-wordpress-theme/53770907
+Description:    Make your modifications to [Parent Theme] in this child theme.
+Author:         Xpertpoin8
+Author URI:     https://xpertpoin8.com/
+Version:        1.0.2
+Template:       restimo
+*/
+
+@import url("./../restimo/style.css");
+ 
+/* =Theme customization starts here
+------------------------------------------------------- */
